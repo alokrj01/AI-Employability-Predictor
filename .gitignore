@@ -1,0 +1,68 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+.env/
+env/
+myenv/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Environment Variables
+
+.env
+
+# Kaggle Credentials
+
+kaggle.json
+
+# Model Files (Optional)
+
+# Uncomment if you don't want to upload trained models
+
+# *.pkl
+
+# *.joblib
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Build Files
+
+build/
+dist/
+
+# Cache
+
+.cache/
+.pytest_cache/
+
+# Google Colab
+
+/content/
