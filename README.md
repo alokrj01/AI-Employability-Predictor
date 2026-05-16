@@ -228,13 +228,8 @@ streamlit run app.py
 ```text
 streamlit
 pandas
-numpy
 scikit-learn
-matplotlib
-seaborn
 joblib
-xgboost
-etc...
 ```
 
 ---
